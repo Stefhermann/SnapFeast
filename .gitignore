@@ -1,0 +1,11 @@
+# Environments
+.env.local
+.env
+.venv
+env/
+venv/
+
+
+#alembic
+
+alembic.ini
